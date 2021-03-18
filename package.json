@@ -1,0 +1,19 @@
+{
+  "name": "scrumpoker-run.ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago P. Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "firebase-admin": "^9.5.0",
+    "socket.io": "^4.0.0",
+    "utf-8-validate": "^5.0.4"
+  }
+}
